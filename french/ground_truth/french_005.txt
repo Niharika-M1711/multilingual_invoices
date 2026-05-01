@@ -1,0 +1,11 @@
+Facture N°: INV-2024-006
+Date: 10/04/2024
+Vendeur: Matériaux Dubois
+Grenoble 38000
+SIRET: 67890123400069
+Acheteur: Construction Renard
+Dijon 21000
+Carrelage 1m² 200 18.00 € 3600.00 €
+Ciment 50kg 100 12.50 € 1250.00 €
+TVA (20%): 970.00 €
+Total TTC: 5820.00 €

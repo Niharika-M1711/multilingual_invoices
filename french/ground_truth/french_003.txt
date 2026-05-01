@@ -1,0 +1,11 @@
+Facture N°: INV-2024-004
+Date: 01/04/2024
+Vendeur: Mode Élégance SAS
+Lille 59000
+SIRET: 45678901200047
+Acheteur: Boutique Chantal
+Strasbourg 67000
+Robe d'été 20 45.00 € 900.00 €
+Pantalon slim 15 65.00 € 975.00 €
+TVA (20%): 375.00 €
+Total TTC: 2250.00 €

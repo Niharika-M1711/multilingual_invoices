@@ -1,0 +1,11 @@
+Facture N°: INV-2024-002
+Date: 20/03/2024
+Vendeur: Boulangerie Lefevre
+Marseille 13001
+SIRET: 23456789000025
+Acheteur: Restaurant Chez Pierre
+Nice 06001
+Pain de campagne 1kg 50 3.50 € 175.00 €
+Croissant (douzaine) 20 8.40 € 168.00 €
+TVA (5.5%): 18.87 €
+Total TTC: 361.87 €

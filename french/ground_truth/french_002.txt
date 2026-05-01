@@ -1,0 +1,11 @@
+Facture N°: INV-2024-003
+Date: 25/03/2024
+Vendeur: Tech Solutions Girard
+Bordeaux 33000
+SIRET: 34567890100036
+Acheteur: Entreprise Bernard
+Toulouse 31000
+Ordinateur portable 3 950.00 € 2850.00 €
+Souris sans fil 10 25.00 € 250.00 €
+TVA (20%): 620.00 €
+Total TTC: 3720.00 €

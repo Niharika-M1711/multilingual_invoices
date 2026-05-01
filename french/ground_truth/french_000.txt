@@ -1,0 +1,11 @@
+Facture N°: INV-2024-001
+Date: 15/03/2024
+Vendeur: Société Dupont SARL
+Paris 75001
+SIRET: 12345678900014
+Acheteur: Martin & Associés
+Lyon 69001
+Cahier A4 (lot 10) 5 12.00 € 60.00 €
+Stylo bille (lot 20) 3 8.50 € 25.50 €
+TVA (20%): 17.10 €
+Total TTC: 102.60 €
